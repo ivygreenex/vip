@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>VIP Playbook</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="VIP Playbook">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f5f5f6">
+<link rel="icon" href="https://i.imgur.com/5CGFleg.png">
+<link rel="apple-touch-icon" href="https://i.imgur.com/5CGFleg.png">
+<style>
+  html, body { margin: 0; height: 100%; background: #f5f5f6; }
+  iframe { position: fixed; inset: 0; width: 100%; height: 100%; border: 0; }
+</style>
+</head>
+<body>
+<!-- Web app link (ends in /exec). -->
+<iframe src="https://script.google.com/macros/s/AKfycbwjY51ssxa6rHVHot88fspGFDFE2w8GEjmxiwdmjop5u9ET8M3xRRnLRM2dJoj-dGbLSg/exec" title="VIP Playbook" allow="clipboard-write"></iframe>
+</body>
+</html>
